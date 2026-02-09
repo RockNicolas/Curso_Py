@@ -1,0 +1,19 @@
+Operadores Relacionais 
+
+== igual
+!= diferente
+> Maior que
+< Menor que
+>= Maior ou igual
+<= Menor ou igual
+
+Operadores Logicos
+
+AND e um e o outro
+OR ou um ou outro
+NOT não ne um nem outro 
+
+TRUE / FALSE
+
+TRUE - VERDADEIRO
+FALSE - FALSO
